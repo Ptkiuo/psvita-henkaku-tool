@@ -1,0 +1,13 @@
+C:\Users\Ptki_uo\source\repos\PSVita henkaku 変革 ツール\bin\Debug\PSVita henkaku 変革 ツール.exe.config
+C:\Users\Ptki_uo\source\repos\PSVita henkaku 変革 ツール\bin\Debug\PSVita henkaku 変革 ツール.exe
+C:\Users\Ptki_uo\source\repos\PSVita henkaku 変革 ツール\bin\Debug\PSVita henkaku 変革 ツール.pdb
+C:\Users\Ptki_uo\source\repos\PSVita henkaku 変革 ツール\obj\Debug\PSVita henkaku 変革 ツール.csproj.AssemblyReference.cache
+C:\Users\Ptki_uo\source\repos\PSVita henkaku 変革 ツール\obj\Debug\PSVita henkaku 変革 ツール.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ptki_uo\source\repos\PSVita henkaku 変革 ツール\obj\Debug\PSVita_henkaku_変革_ツール.Form1.resources
+C:\Users\Ptki_uo\source\repos\PSVita henkaku 変革 ツール\obj\Debug\PSVita_henkaku_変革_ツール.Form2.resources
+C:\Users\Ptki_uo\source\repos\PSVita henkaku 変革 ツール\obj\Debug\PSVita_henkaku_変革_ツール.Properties.Resources.resources
+C:\Users\Ptki_uo\source\repos\PSVita henkaku 変革 ツール\obj\Debug\PSVita henkaku 変革 ツール.csproj.GenerateResource.cache
+C:\Users\Ptki_uo\source\repos\PSVita henkaku 変革 ツール\obj\Debug\PSVita henkaku 変革 ツール.csproj.CoreCompileInputs.cache
+C:\Users\Ptki_uo\source\repos\PSVita henkaku 変革 ツール\obj\Debug\PSVita henkaku 変革 ツール.exe
+C:\Users\Ptki_uo\source\repos\PSVita henkaku 変革 ツール\obj\Debug\PSVita henkaku 変革 ツール.pdb
+C:\Users\Ptki_uo\source\repos\PSVita henkaku 変革 ツール\obj\Debug\PSVita_henkaku_変革_ツール.Form3.resources
